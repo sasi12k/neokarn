@@ -9,7 +9,7 @@ int main(){
     while(num != 0){  
         if(num%2 == 0){ 
             even = even+1; 
-        }else{
+        } else {
             odd = odd+1;
         }
         cout << "Enter an integer: "; 
